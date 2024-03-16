@@ -89,7 +89,9 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" /><img 
+</div>
 <div align="center">
 <a href='https://ko-fi.com/roshansharma#' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
