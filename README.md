@@ -21,6 +21,7 @@
 <br/>
 
 <div align="center">
+
  
   🕳️I’m currently working on **a Hidden place**
  
@@ -31,6 +32,7 @@
 ⚡ Fun Works with **Dark 🌑 Website from Unknown 👤 Places**
 
  </div>
+
  
 <div align="center"> 
   <a href="mailto: killercamping99@gmail.com">
@@ -39,15 +41,17 @@
   <a href="https://www.linkedin.com/in/roshan-sharma-505027294?trk=contact-info" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+ 
 </div>
 
  <hr/>
+
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
+
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
@@ -75,11 +79,19 @@
 
 
 
+
+
+
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+
+
+ 
+  <h2>🐍 My Works 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
